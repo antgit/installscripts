@@ -2,7 +2,7 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/in
 
 cinst skype -y
 cinst vlc -y
-choco install googlechrome -y
+cinst googlechrome -y
 cinst conemu -y
 cinst totalcommander  -y
 cinst steam -y
