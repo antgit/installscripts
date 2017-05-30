@@ -7,7 +7,7 @@ cinst conemu -y
 cinst totalcommander  -y
 cinst steam -y
 cinst telegram -y
-choco install notepadplusplus.install -y
+cinst notepadplusplus.install -y
 
 #Development
 cinst git -y
