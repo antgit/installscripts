@@ -8,7 +8,7 @@ cinst totalcommander  -y
 cinst steam -y
 cinst telegram -y
 cinst notepadplusplus.install -y
-cinst transmission-qt
+cinst transmission-qt -y
 
 #Development
 cinst git -y
