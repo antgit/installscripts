@@ -13,3 +13,4 @@ choco install notepadplusplus.install -y
 cinst git -y
 cinst tortoisegit -y
 cinst nodejs.install -y
+cinst visualstudiocode -y
