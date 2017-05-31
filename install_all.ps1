@@ -11,6 +11,7 @@ cinst notepadplusplus.install -y
 cinst transmission-qt -y
 cinst qtranslate -y
 cinst hearthstone-deck-tracker -y
+cinst spotify -y
 
 #Development
 cinst git -y
