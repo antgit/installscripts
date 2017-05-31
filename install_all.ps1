@@ -9,7 +9,7 @@ cinst steam -y
 cinst telegram -y
 cinst notepadplusplus.install -y
 cinst transmission-qt -y
-cinst qtranslate
+cinst qtranslate -y
 
 #Development
 cinst git -y
